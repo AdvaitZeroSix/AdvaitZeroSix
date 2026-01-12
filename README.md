@@ -26,8 +26,6 @@ Exploring software development, core computer science concepts, and problem solv
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvaitZeroSix&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=github-dark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdvaitZeroSix&theme=github-dark)
 
 ---
