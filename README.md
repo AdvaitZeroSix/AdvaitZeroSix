@@ -15,9 +15,8 @@ Exploring software development, core CS concepts, and problem solving.
 
 | Category     | Technologies |
 |-------------|--------------|
-| Languages   | C, C++, Java, Python, JavaScript |
-| Core CS     | Data Structures & Algorithms, OOP, DBMS |
-| Web         | HTML, CSS, JavaScript |
+| Languages   | C, C++, Java, Python |
+| Core CS     | Data Structures & Algorithms, OOP |
 | Databases   | MySQL |
 | Tools       | Git, GitHub, VS Code |
 
@@ -39,4 +38,3 @@ Exploring software development, core CS concepts, and problem solving.
 
 ---
 
-⭐ Always learning. Always improving.
