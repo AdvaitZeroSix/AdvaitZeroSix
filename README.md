@@ -1,13 +1,14 @@
 # Hey, I'm Advait 👋
 
 **Computer Science & Engineering (FinTech) Student**  
-Exploring software development, core CS concepts, and problem solving.
+Exploring software development, core computer science concepts, and problem solving.
 
 ---
 
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome)](https://advaitsaxena0.pages.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AdvaitZeroSix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/advaitsaxena2306/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AdvaitSaxena/)
 
 ---
 
@@ -17,6 +18,7 @@ Exploring software development, core CS concepts, and problem solving.
 |-------------|--------------|
 | Languages   | C, C++, Java, Python |
 | Core CS     | Data Structures & Algorithms, OOP |
+| Web         | HTML, CSS |
 | Databases   | MySQL |
 | Tools       | Git, GitHub, VS Code |
 
@@ -32,9 +34,9 @@ Exploring software development, core CS concepts, and problem solving.
 
 ## About Me
 
-- Curious about how systems and software work at a deeper level.
-- Currently focusing on strengthening DSA and core computer science fundamentals.
-- Exploring development, GitHub projects, and open-source casually.
+- Curious about how systems and software work under the hood.
+- Actively strengthening DSA and core computer science fundamentals.
+- Practicing problem solving on LeetCode and exploring development at my own pace.
 
 ---
 
