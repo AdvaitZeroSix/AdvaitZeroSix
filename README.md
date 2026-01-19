@@ -16,10 +16,9 @@ Exploring software development, core computer science concepts, and problem solv
 
 | Category     | Technologies |
 |-------------|--------------|
-| Languages   | C, C++, Java, Python |
+| Languages   | C, Java, Python |
 | Core CS     | Data Structures & Algorithms, OOP |
-| Web         | HTML, CSS |
-| Databases   | MySQL |
+| Databases   | SQL |
 | Tools       | Git, GitHub, VS Code |
 
 ---
