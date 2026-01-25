@@ -25,11 +25,11 @@
 ## 🧠 About Me
 
 ```txt
-👨‍🎓 CSE (FinTech) student
-🧩 Loves breaking problems down
-📚 Strengthening DSA & core CS fundamentals
-⚙️ Curious about how systems work internally
-🚀 Learning by building, failing, and fixing
+ CSE (FinTech) student
+ Loves breaking problems down
+ Strengthening DSA & core CS fundamentals
+ Curious about how systems work internally
+ Learning by building, failing, and fixing
 ```
 
 ## 📈 GitHub Stats
@@ -44,6 +44,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdvaitZeroSix&theme=react-dark&hide_border=true" />
 </p>
+
 ## 🧩 Problem Solving
 
 <p align="center">
