@@ -1,9 +1,10 @@
-<h1 align="center">Hey 👋 I'm Advait</h1>
+<h1 align="center">Hey  I'm Advait</h1>
 <h3 align="center">CSE (FinTech) Student | Problem Solver | Curious Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Turning+ideas+into+code;Learning+DSA+one+problem+at+a+time;Exploring+FinTech+and+Software+Systems;Building+projects+that+actually+work" />
 </p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -20,6 +21,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
 ## 🧠 About Me
 
 ```txt
@@ -29,6 +31,7 @@
 ⚙️ Curious about how systems work internally
 🚀 Learning by building, failing, and fixing
 ```
+
 ## 📈 GitHub Stats
 
 <p align="center">
