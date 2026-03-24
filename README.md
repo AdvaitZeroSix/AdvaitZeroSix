@@ -31,18 +31,3 @@
  Curious about how systems work internally
  Learning by building, failing, and fixing
 ```
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdvaitZeroSix&theme=react-dark&hide_border=true" />
-</p>
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AdvaitSaxena?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
