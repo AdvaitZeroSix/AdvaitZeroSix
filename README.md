@@ -2,7 +2,7 @@
 <h3 align="center">CSE (FinTech) Student | Problem Solver | Curious Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Turning+ideas+into+code;Learning+DSA+one+problem+at+a+time;Exploring+FinTech+and+Software+Systems;Trying+to+Build+projects+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Turning+ideas+into+code;Learning+DSA+one+problem+at+a+time;Exploring+FinTech+and+Software+Systems;Trying+to+Build+project+that+actually+work" />
 </p>
 
 ## 🌐 Connect With Me
