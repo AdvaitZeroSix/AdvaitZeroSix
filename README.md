@@ -1,15 +1,13 @@
-<h1 align="center">Hey  I'm Advait</h1>
-<h3 align="center">CSE (FinTech) Student | Problem Solver | Curious Builder</h3>
+<h1 align="center">Advait Saxena</h1>
+<h3 align="center">Computer Science Engineering (FinTech) Student | Software Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Turning+ideas+into+code;Learning+DSA+one+problem+at+a+time;Exploring+FinTech+and+Software+Systems;Trying+to+Build+project+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+software+that+solves+real+problems;Strengthening+DSA+and+core+CS+fundamentals;Exploring+FinTech+and+distributed+systems;Learning+by+building%2C+testing%2C+and+iterating" />
 </p>
-
-##  Connect With Me
 
 <p align="center">
   <a href="https://advaitsaxena0.pages.dev/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/AdvaitZeroSix">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -22,18 +20,50 @@
   </a>
 </p>
 
-##  About Me
+<br/>
+
+## About Me
 
 ```txt
- CSE (FinTech) student
- Loves breaking problems down
- Strengthening DSA & core CS fundamentals
- Curious about how systems work internally
- Learning by building, failing, and fixing
+Computer Science (FinTech) student focused on software engineering fundamentals
+Comfortable breaking down complex problems into clear, testable components
+Building a strong foundation in Data Structures, Algorithms, and system design
+Interested in how financial systems, backends, and distributed systems work internally
+Learning primarily by building projects, debugging failures, and iterating
 ```
 
-##  Most Used Languages
+<br/>
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdvaitZeroSix&style=for-the-badge&color=00C2FF" />
+</p>
+
+<br/>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <em>Open to internships and collaborations in software engineering and fintech.</em>
 </p>
