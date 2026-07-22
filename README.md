@@ -1,64 +1,83 @@
-<h1 align="center">Advait Saxena</h1>
-<h3 align="center">Computer Science Engineering (FinTech) Student | Software Developer | DSA Enthusiast</h3>
+# Advait Saxena
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+software+that+solves+real+problems;Strengthening+DSA+and+core+CS+fundamentals;Exploring+FinTech+and+distributed+systems;Learning+by+building%2C+testing%2C+and+iterating" />
-</p>
+Computer Science Engineering (FinTech) student focused on software engineering fundamentals, DSA, and building systems that work end to end.
 
-<p align="center">
+<p align="left">
   <a href="https://advaitsaxena0.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/AdvaitZeroSix">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/advaitsaxena2306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/AdvaitSaxena/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<br/>
+## About
 
-## About Me
+- Comfortable breaking down complex problems into clear, testable components
+- Building a strong foundation in Data Structures, Algorithms, and system design
+- Interested in how financial systems, backends, and distributed systems work internally
+- Learning primarily by building projects, debugging failures, and iterating
 
-```txt
-Computer Science (FinTech) student focused on software engineering fundamentals
-Comfortable breaking down complex problems into clear, testable components
-Building a strong foundation in Data Structures, Algorithms, and system design
-Interested in how financial systems, backends, and distributed systems work internally
-Learning primarily by building projects, debugging failures, and iterating
-```
+## Education
 
-<br/>
+| Institution | Program | Period | Result |
+|---|---|---|---|
+| Manipal Institute of Technology | B.Tech CSE (Financial Technology), Manipal, Karnataka | 2025 – 2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
+| Modern Delhi International School | Class XI – XII, CBSE, Faridabad | 2023 – 2025 | 12th: 86.8% · JEE Main: 90.2 %ile |
+| Grand Columbus International School | Class VII – X, CBSE, Faridabad | 2019 – 2023 | 10th: 93.8% |
+| Xavier School | Kindergarten – Class VI, Gamharia, Jamshedpur | Until 2019 | — |
 
-## GitHub Stats
+## Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**StudentHub**
+Full-stack student productivity platform built for the ISTE Summer School 2026 WebDev final showcase, combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard.
+`React` `Node.js` `Express` `MongoDB`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=tokyonight&hide_border=true" />
-</p>
+**AI Finance Insights Platform**
+A rule-based financial analysis tool powered by the Gemini API. Parses transaction history to surface personalised spending insights, detect overspending patterns, and flag subscription leakage, translating raw data into plain-language summaries a user can act on.
+`Python` `Gemini API` `Financial Analysis` `Streamlit`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdvaitZeroSix&style=for-the-badge&color=00C2FF" />
-</p>
+**Stock Market Analytics Web App**
+A Streamlit dashboard that integrates live financial APIs for real-time stock trend visualisation, with technical indicator interpretation and trend evaluation built on top of the incoming market data.
+`Python` `Streamlit` `Financial APIs` `Data Viz`
 
-<br/>
+**Spotify Listening Analytics**
+An end-to-end analysis of personal Spotify listening history. Cleaned and processed the raw data with NumPy, then visualised listening behaviour, genre distribution, and track engagement trends with Matplotlib and Seaborn.
+`Python` `NumPy` `Matplotlib` `Seaborn`
+
+**Real-Time Green Screen System**
+A live background-replacement pipeline built with OpenCV and NumPy. Processes webcam frames in real time using colour masking to segment foreground from background, with no GPU or ML model required.
+`Python` `OpenCV` `NumPy` `Computer Vision`
+
+**Real-Time Ball Tracking System**
+A computer vision pipeline for detecting and tracking moving objects in live video, outputting annotated footage with highlighted object trails. Built for the ISTE MIT OpenCV Workshop.
+`Python` `OpenCV` `Object Tracking` `Computer Vision`
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+## GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=default&hide_border=true" />
 </p>
