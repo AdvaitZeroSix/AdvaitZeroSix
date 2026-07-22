@@ -27,11 +27,11 @@ Computer Science Engineering (FinTech) student focused on software engineering f
 ## Education
 
 | Institution | Program | Period | Result |
-|---|---|---|---|
-| Manipal Institute of Technology | B.Tech CSE (Financial Technology), Manipal, Karnataka | 2025 – 2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
-| Modern Delhi International School | Class XI – XII, CBSE, Faridabad | 2023 – 2025 | 12th: 86.8% · JEE Main: 90.2 %ile |
-| Grand Columbus International School | Class VII – X, CBSE, Faridabad | 2019 – 2023 | 10th: 93.8% |
-| Xavier School | Kindergarten – Class VI, Gamharia, Jamshedpur | Until 2019 | — |
+|---|---|:-:|---|
+| Manipal Institute of Technology | B.Tech CSE (Financial Technology), Manipal, Karnataka | 2025–2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
+| Modern Delhi International School | Class XI–XII, CBSE, Faridabad | 2023–2025 | 12th: 86.8% · JEE Main: 90.2 %ile |
+| Grand Columbus International School | Class VII–X, CBSE, Faridabad | 2019–2023 | 10th: 93.8% |
+| Xavier School | Kindergarten–Class VI, Gamharia, Jamshedpur | –2019 | — |
 
 ## Projects
 
@@ -74,10 +74,10 @@ A computer vision pipeline for detecting and tracking moving objects in live vid
 ## GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=dark&hide_border=true" />
 </p>
