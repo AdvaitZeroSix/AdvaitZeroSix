@@ -28,10 +28,10 @@ Computer Science Engineering (FinTech) student focused on software engineering f
 
 | Institution | Program | Period | Result |
 |---|---|:-:|---|
-| Manipal Institute of Technology | B.Tech CSE (Financial Technology), Manipal, Karnataka | 2025–2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
+| Manipal Institute of Technology | B.Tech CSE Fintech, Manipal, Karnataka | 2025–2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
 | Modern Delhi International School | Class XI–XII, CBSE, Faridabad | 2023–2025 | 12th: 86.8% · JEE Main: 90.2 %ile |
 | Grand Columbus International School | Class VII–X, CBSE, Faridabad | 2019–2023 | 10th: 93.8% |
-| Xavier School | Kindergarten–Class VI, Gamharia, Jamshedpur | –2019 | — |
+| Xavier School | Kindergarten–Class VI, Jamshedpur | 2019 | — |
 
 ## Projects
 
