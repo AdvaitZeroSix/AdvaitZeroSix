@@ -43,14 +43,6 @@ Full-stack student productivity platform built for the ISTE Summer School 2026 W
 A rule-based financial analysis tool powered by the Gemini API. Parses transaction history to surface personalised spending insights, detect overspending patterns, and flag subscription leakage, translating raw data into plain-language summaries a user can act on.
 `Python` `Gemini API` `Financial Analysis` `Streamlit`
 
-**Stock Market Analytics Web App**
-A Streamlit dashboard that integrates live financial APIs for real-time stock trend visualisation, with technical indicator interpretation and trend evaluation built on top of the incoming market data.
-`Python` `Streamlit` `Financial APIs` `Data Viz`
-
-**Spotify Listening Analytics**
-An end-to-end analysis of personal Spotify listening history. Cleaned and processed the raw data with NumPy, then visualised listening behaviour, genre distribution, and track engagement trends with Matplotlib and Seaborn.
-`Python` `NumPy` `Matplotlib` `Seaborn`
-
 **Real-Time Green Screen System**
 A live background-replacement pipeline built with OpenCV and NumPy. Processes webcam frames in real time using colour masking to segment foreground from background, with no GPU or ML model required.
 `Python` `OpenCV` `NumPy` `Computer Vision`
