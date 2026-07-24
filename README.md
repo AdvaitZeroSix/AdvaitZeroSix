@@ -36,8 +36,20 @@ Computer Science Engineering (FinTech) student focused on software engineering f
 ## Projects
 
 **StudentHub**
-Full-stack student productivity platform built for the ISTE Summer School 2026 WebDev final showcase, combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard.
+Full-stack student productivity platform built for the ISTE Summer School 2026 WebDev final showcase, combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard. [Live app](https://studenthub-react.vercel.app/)
 `React` `Node.js` `Express` `MongoDB`
+
+**Cloudizard**
+A Flask app with a single text box that routes each question through Gemini to figure out what kind of query it is before deciding what to do with it: Pokemon questions hit the PokeAPI for stats, types, and abilities, weather questions get the city extracted and passed to OpenWeatherMap for current conditions, and everything else is answered directly by Gemini. Deployed on Render with auto deploy from `main`. [Live app](https://cloudizard.onrender.com)
+`Python` `Flask` `Gemini API` `PokeAPI` `OpenWeatherMap API`
+
+**FIFA Team Performance Predictor**
+A machine learning app that predicts a football team's performance tier from the FIFA 23 Complete Player Dataset, with Random Forest and Decision Tree models compared on accuracy (Random Forest: 99.2%). Deployed on Streamlit, with a prediction feature plus a comparison mode to see stats side by side and which of two teams rates as the stronger overall. [Live app](https://advaitsaxena.streamlit.app/)
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+**Binary Classification Neural Network from Scratch**
+A binary classification neural network implemented using only NumPy, covering weight and bias initialisation, ReLU and Sigmoid activations, forward propagation, binary cross-entropy loss, backpropagation, and gradient descent. Evaluated against Logistic Regression, Decision Tree, and Random Forest baselines on the Breast Cancer Wisconsin dataset using Accuracy, Precision, Recall, and F1 Score.
+`Python` `NumPy` `Machine Learning`
 
 **AI Finance Insights Platform**
 A rule-based financial analysis tool powered by the Gemini API. Parses transaction history to surface personalised spending insights, detect overspending patterns, and flag subscription leakage, translating raw data into plain-language summaries a user can act on.
