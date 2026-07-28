@@ -1,6 +1,6 @@
 # Advait Saxena
 
-Computer Science Engineering (FinTech) student focused on software engineering fundamentals, DSA, and building systems that work end to end.
+Computer Science Engineering (FinTech) student focused on software engineering fundamentals, DSA, and building systems.
 
 <p align="left">
   <a href="https://advaitsaxena0.pages.dev/">
@@ -22,13 +22,12 @@ Computer Science Engineering (FinTech) student focused on software engineering f
 - Comfortable breaking down complex problems into clear, testable components
 - Building a strong foundation in Data Structures, Algorithms, and system design
 - Interested in how financial systems, backends, and distributed systems work internally
-- Learning primarily by building projects, debugging failures, and iterating
 
 ## Education
 
 | Institution | Program | Period | Result |
 |---|---|:-:|---|
-| Manipal Institute of Technology | B.Tech CSE Fintech, Manipal, Karnataka | 2025–2029 | CGPA 8.09 (Sem 1: 8.24, Sem 2: 7.95) |
+| Manipal Institute of Technology | B.Tech CSE Fintech, Manipal, Karnataka | 2025–2029 | CGPA 8.1 (Sem 1: 8.24, Sem 2: 7.95) |
 | Modern Delhi International School | Class XI–XII, CBSE, Faridabad | 2023–2025 | 12th: 86.8% · JEE Main: 90.2 %ile |
 | Grand Columbus International School | Class VII–X, CBSE, Faridabad | 2019–2023 | 10th: 93.8% |
 | Xavier School | Kindergarten–Class VI, Jamshedpur | 2019 | — |
@@ -36,7 +35,7 @@ Computer Science Engineering (FinTech) student focused on software engineering f
 ## Projects
 
 **StudentHub**
-Full-stack student productivity platform built for the ISTE Summer School 2026 WebDev final showcase, combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard. [Live app](https://studenthub-react.vercel.app/)
+Full-stack student productivity platform built combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard. [Live app](https://studenthub-react.vercel.app/)
 `React` `Node.js` `Express` `MongoDB`
 
 **Cloudizard**
