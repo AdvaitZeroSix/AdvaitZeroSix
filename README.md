@@ -50,17 +50,9 @@ A machine learning app that predicts a football team's performance tier from the
 A binary classification neural network implemented using only NumPy, covering weight and bias initialisation, ReLU and Sigmoid activations, forward propagation, binary cross-entropy loss, backpropagation, and gradient descent. Evaluated against Logistic Regression, Decision Tree, and Random Forest baselines on the Breast Cancer Wisconsin dataset using Accuracy, Precision, Recall, and F1 Score.
 `Python` `NumPy` `Machine Learning`
 
-**AI Finance Insights Platform**
-A rule-based financial analysis tool powered by the Gemini API. Parses transaction history to surface personalised spending insights, detect overspending patterns, and flag subscription leakage, translating raw data into plain-language summaries a user can act on.
-`Python` `Gemini API` `Financial Analysis` `Streamlit`
-
 **Real-Time Green Screen System**
 A live background-replacement pipeline built with OpenCV and NumPy. Processes webcam frames in real time using colour masking to segment foreground from background, with no GPU or ML model required.
 `Python` `OpenCV` `NumPy` `Computer Vision`
-
-**Real-Time Ball Tracking System**
-A computer vision pipeline for detecting and tracking moving objects in live video, outputting annotated footage with highlighted object trails. Built for the ISTE MIT OpenCV Workshop.
-`Python` `OpenCV` `Object Tracking` `Computer Vision`
 
 ## Tech Stack
 
