@@ -1,117 +1,113 @@
 # Advait Saxena
 
-CSE (FinTech) @ MIT Manipal
+`CSE (FinTech) @ MIT Manipal` · `Software / ML / Systems`
 
-I build things across software, machine learning, and whatever else looks interesting enough to spend a weekend breaking.
+I build software, break it, figure out why, and build it better.
 
-Currently focused on DSA, full-stack development, and getting significantly better at engineering things instead of just making them work.
+My main interests are full-stack development, machine learning, DSA and cybersecurity. I like understanding how things work underneath the abstraction rather than stopping at the point where the code runs.
 
 [GitHub](https://github.com/AdvaitZeroSix) · [LinkedIn](https://www.linkedin.com/in/advaitsaxena2306/) · [LeetCode](https://leetcode.com/u/AdvaitSaxena/)
 
-## The Numbers
+---
+
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdvaitZeroSix&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=AdvaitZeroSix&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdvaitZeroSix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&rank_icon=github&custom_title=GitHub%20Statistics" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AdvaitZeroSix&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&langs_count=8&hide_border=true&theme=dark&custom_title=Languages" height="165"/>
 </p>
 
-## What I've Built
+---
 
-### StudentHub
+## Selected Work
 
-[Live](https://studenthub-react.vercel.app/)
+### [StudentHub](https://studenthub-react.vercel.app/)
 
-A college dashboard built around the things I actually need in one place: expenses, notes, tasks and productivity.
-
-Built the frontend in React and connected it to a Node/Express backend with MongoDB for persistent data.
+A full-stack student dashboard bringing expenses, notes, tasks and productivity tools into one place.
 
 `React` `Node.js` `Express` `MongoDB`
 
-### Cloudizard
+### [Cloudizard](https://cloudizard.onrender.com/)
 
-[Live](https://cloudizard.onrender.com/)
-
-A natural-language API router.
-
-You type what you want. Gemini figures out the intent, and Cloudizard decides which API to call.
-
-Pokémon → PokeAPI
-Weather → OpenWeatherMap
-Everything else → Gemini
+A natural-language API router. Gemini interprets the request and routes it to the appropriate service instead of forcing the user to know which API they need.
 
 `Python` `Flask` `Gemini API` `PokeAPI` `OpenWeatherMap`
 
-### FIFA Team Performance Predictor
+### [FIFA Team Performance Predictor](https://advaitsaxena.streamlit.app/)
 
-[Live](https://advaitsaxena.streamlit.app/)
+A Random Forest model trained on FIFA 23 data with an interactive team comparison interface.
 
-Trained a Random Forest on FIFA 23 data and built an interactive matchup tool for comparing teams.
-
-The model reaches ~99.2% accuracy on the dataset.
+~99.2% accuracy on the dataset.
 
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
 ### Neural Network From Scratch
 
-Built a neural network from the ground up using NumPy.
+A neural network implemented from the ground up using NumPy, including forward propagation, backpropagation and gradient descent.
 
-Forward propagation. Backpropagation. Gradient descent.
-
-No TensorFlow. No PyTorch. Just the mathematics, the code, and a lot of debugging.
+No TensorFlow. No PyTorch.
 
 `Python` `NumPy` `Machine Learning`
 
 ### Real-Time Green Screen
 
-A real-time computer vision system that removes a selected colour from a video feed using OpenCV and masking.
+Real-time colour segmentation and background replacement using OpenCV and NumPy.
 
-No pretrained model. No GPU. Just image processing.
+No pretrained model. No GPU.
 
 `Python` `OpenCV` `NumPy` `Computer Vision`
 
-## Stack
+---
 
-### Languages
+## Tech Stack
 
-`Java` `Python` `C` `JavaScript` `SQL`
+| Area | Technologies |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,js" height="32"/> `SQL` |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,vite" height="32"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="32"/> `REST APIs` |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb" height="32"/> `MongoDB Atlas` |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python" height="32"/> `NumPy` `Pandas` `Scikit-learn` `Streamlit` |
+| **Computer Vision** | <img src="https://skillicons.dev/icons?i=opencv" height="32"/> `MediaPipe` `NumPy` |
+| **AI / APIs** | `Gemini API` · `PokeAPI` · `OpenWeatherMap` |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="32"/> `WSL` |
+| **Deployment** | <img src="https://skillicons.dev/icons?i=vercel,cloudflare" height="32"/> `Render` · `Streamlit Cloud` |
 
-### Development
+---
 
-`React` `Node.js` `Express` `MongoDB` `Flask`
+## What I'm Into
 
-### Data & ML
+**Software Engineering**  
+Building applications end-to-end, from frontend and APIs to databases and deployment.
 
-`NumPy` `Pandas` `Scikit-learn` `OpenCV`
+**Algorithms**  
+DSA, problem solving and trying to make LeetCode stop inventing increasingly creative ways to reject perfectly reasonable solutions.
 
-### Tools
+**Machine Learning**  
+Understanding the fundamentals instead of treating `.fit()` as a black box.
 
-`Git` `GitHub` `VS Code`
+**Cybersecurity**  
+CTFs, web exploitation, OSINT, cryptography and digital forensics.
 
-## What I'm Working On
+**FinTech**  
+The intersection of software, data and financial systems.
 
-DSA.
+---
 
-Full-stack development.
+## Beyond Code
 
-Machine learning fundamentals.
+BTech CSE (FinTech) student at MIT Manipal.
 
-And generally trying to turn “I think I can build that” into an actual repository.
+I've worked on full-stack applications, ML projects, computer vision systems and CTF challenges while spending an unreasonable amount of time improving at DSA.
 
-## A Few Things About Me
-
-* CSE (FinTech) student at MIT Manipal
-* Competitive about getting better at things
-* Prefer building over watching tutorials about building
-* Currently spending an unreasonable amount of time on DSA
-* Interested in software, fintech, ML and cybersecurity
-* If something looks technically interesting, I'll probably try to build it
+I prefer building over following tutorials, understanding over memorising, and shipping something imperfect over leaving another project sitting in a folder called `final`.
 
 ---
 
 <p align="center">
-  <i>Build it. Break it. Understand it. Build it better.</i>
+  <sub>Currently building. Always learning.</sub>
 </p>
