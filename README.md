@@ -1,8 +1,8 @@
-<h1 align="center">Advait Saxena</h1>
-<h3 align="center">Computer Science Engineering (FinTech) | Building Systems, Not Just Scripts</h3>
+<h1 align="center">Hey, I'm Advait</h1>
+<h3 align="center">CSE (FinTech) student who'd rather build something broken than ship nothing at all</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Strengthening+DSA+and+core+CS+fundamentals;Shipping+full-stack+and+ML+projects+end+to+end;Learning+by+building%2C+breaking%2C+and+fixing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=console.log(%22send+help%22)%3B;Currently+arguing+with+my+own+code;99%25+of+bugs+are+missing+semicolons%2C+1%25+is+me;Turning+coffee+into+commits+since+forever" />
 </p>
 
 <p align="center">
@@ -21,32 +21,35 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdvaitZeroSix&style=for-the-badge&color=00C2FF" />
+  <img src="https://komarev.com/ghpvc/?username=AdvaitZeroSix&style=for-the-badge&color=00C2FF&label=Profile+Views" />
 </p>
 
 ---
 
-### About
+### A little about me
 
 ```txt
-class Advait:
-    def __init__(self):
-        self.field = "Computer Science Engineering (FinTech)"
-        self.focus = ["Data Structures & Algorithms", "System Design", "Full-Stack Development"]
-        self.interests = ["FinTech systems", "Backend architecture", "Applied Machine Learning"]
-        self.approach = "Build it, break it, understand why, fix it"
+if bug:
+    blame_semicolon()
+elif deadline_close:
+    ship_it_anyway()
+else:
+    build_something_new()
+
+# currently: breaking things on purpose to learn how they work
+# hobbies: DSA grinding, full-stack builds, occasionally touching grass
 ```
 
 ---
 
-### Projects
+### Stuff I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **StudentHub**
-Full-stack productivity platform combining an expense tracker, MongoDB-backed notes, task manager, and Pomodoro timer in one dashboard.
+A dashboard that tries to be your whole college life in one tab: expense tracker, notes, tasks, and a Pomodoro timer that judges you for procrastinating.
 `React` `Node.js` `Express` `MongoDB`
 [Live app](https://studenthub-react.vercel.app/)
 
@@ -54,7 +57,7 @@ Full-stack productivity platform combining an expense tracker, MongoDB-backed no
 <td width="50%" valign="top">
 
 **Cloudizard**
-Flask app that routes each query through Gemini to classify intent, then dispatches to PokeAPI, OpenWeatherMap, or Gemini itself depending on the question. Auto-deployed on Render.
+One text box, three personalities. Ask about a Pokemon, the weather, or literally anything else, and it figures out which API to bother on your behalf.
 `Python` `Flask` `Gemini API` `PokeAPI` `OpenWeatherMap`
 [Live app](https://cloudizard.onrender.com)
 
@@ -64,7 +67,7 @@ Flask app that routes each query through Gemini to classify intent, then dispatc
 <td width="50%" valign="top">
 
 **FIFA Team Performance Predictor**
-ML app predicting team performance tier from the FIFA 23 dataset, comparing Random Forest (99.2% accuracy) against Decision Tree, with side-by-side team comparison mode.
+Feeds the FIFA 23 dataset to a Random Forest model until it hits 99.2% accuracy, then lets you pit two teams against each other to settle arguments.
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 [Live app](https://advaitsaxena.streamlit.app/)
 
@@ -72,7 +75,7 @@ ML app predicting team performance tier from the FIFA 23 dataset, comparing Rand
 <td width="50%" valign="top">
 
 **Neural Network from Scratch**
-Binary classifier built with raw NumPy: weight init, ReLU/Sigmoid, forward propagation, backprop, and gradient descent, benchmarked against Logistic Regression, Decision Tree, and Random Forest on the Breast Cancer Wisconsin dataset.
+No TensorFlow, no PyTorch, just NumPy and stubbornness. Built forward prop, backprop, and gradient descent by hand and benchmarked it against the "easy way" models.
 `Python` `NumPy` `Machine Learning`
 
 </td>
@@ -81,7 +84,7 @@ Binary classifier built with raw NumPy: weight init, ReLU/Sigmoid, forward propa
 <td width="50%" valign="top">
 
 **Real-Time Green Screen System**
-Live background-replacement pipeline using OpenCV colour masking to segment foreground from background in real time, no GPU or ML model required.
+Turns any wall into a green screen using nothing but OpenCV and colour masking. No GPU, no ML model, just math doing its job.
 `Python` `OpenCV` `NumPy` `Computer Vision`
 
 </td>
@@ -93,7 +96,7 @@ Live background-replacement pipeline using OpenCV colour masking to segment fore
 
 ---
 
-### Tech Stack
+### Tools of the trade
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -107,7 +110,7 @@ Live background-replacement pipeline using OpenCV colour masking to segment fore
 
 ---
 
-### GitHub Stats
+### The receipts
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
@@ -125,3 +128,5 @@ Live background-replacement pipeline using OpenCV colour masking to segment fore
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdvaitZeroSix&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+<p align="center"><i>Thanks for scrolling this far. Go build something.</i></p>
