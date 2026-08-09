@@ -1,69 +1,127 @@
-# Advait Saxena
+<h1 align="center">Advait Saxena</h1>
+<h3 align="center">Computer Science Engineering (FinTech) | Building Systems, Not Just Scripts</h3>
 
-Computer Science Engineering (FinTech) student focused on software engineering fundamentals, DSA, and building systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Strengthening+DSA+and+core+CS+fundamentals;Shipping+full-stack+and+ML+projects+end+to+end;Learning+by+building%2C+breaking%2C+and+fixing" />
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://advaitsaxena0.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/AdvaitZeroSix">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/advaitsaxena2306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/AdvaitSaxena/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-## About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdvaitZeroSix&style=for-the-badge&color=00C2FF" />
+</p>
 
-- Comfortable breaking down complex problems into clear, testable components
-- Building a strong foundation in Data Structures, Algorithms, and system design
-- Interested in how financial systems, backends, and distributed systems work internally
+---
 
-## Projects
+### About
+
+```txt
+class Advait:
+    def __init__(self):
+        self.field = "Computer Science Engineering (FinTech)"
+        self.focus = ["Data Structures & Algorithms", "System Design", "Full-Stack Development"]
+        self.interests = ["FinTech systems", "Backend architecture", "Applied Machine Learning"]
+        self.approach = "Build it, break it, understand why, fix it"
+```
+
+---
+
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **StudentHub**
-Full-stack student productivity platform built combining an expense tracker, a notes module backed by MongoDB, a task manager, and a Pomodoro timer in one dashboard. [Live app](https://studenthub-react.vercel.app/)
+Full-stack productivity platform combining an expense tracker, MongoDB-backed notes, task manager, and Pomodoro timer in one dashboard.
 `React` `Node.js` `Express` `MongoDB`
+[Live app](https://studenthub-react.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
 
 **Cloudizard**
-A Flask app with a single text box that routes each question through Gemini to figure out what kind of query it is before deciding what to do with it: Pokemon questions hit the PokeAPI for stats, types, and abilities, weather questions get the city extracted and passed to OpenWeatherMap for current conditions, and everything else is answered directly by Gemini. Deployed on Render with auto deploy from `main`. [Live app](https://cloudizard.onrender.com)
-`Python` `Flask` `Gemini API` `PokeAPI` `OpenWeatherMap API`
+Flask app that routes each query through Gemini to classify intent, then dispatches to PokeAPI, OpenWeatherMap, or Gemini itself depending on the question. Auto-deployed on Render.
+`Python` `Flask` `Gemini API` `PokeAPI` `OpenWeatherMap`
+[Live app](https://cloudizard.onrender.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **FIFA Team Performance Predictor**
-A machine learning app that predicts a football team's performance tier from the FIFA 23 Complete Player Dataset, with Random Forest and Decision Tree models compared on accuracy (Random Forest: 99.2%). Deployed on Streamlit, with a prediction feature plus a comparison mode to see stats side by side and which of two teams rates as the stronger overall. [Live app](https://advaitsaxena.streamlit.app/)
+ML app predicting team performance tier from the FIFA 23 dataset, comparing Random Forest (99.2% accuracy) against Decision Tree, with side-by-side team comparison mode.
 `Python` `Pandas` `Scikit-learn` `Streamlit`
+[Live app](https://advaitsaxena.streamlit.app/)
 
-**Binary Classification Neural Network from Scratch**
-A binary classification neural network implemented using only NumPy, covering weight and bias initialisation, ReLU and Sigmoid activations, forward propagation, binary cross-entropy loss, backpropagation, and gradient descent. Evaluated against Logistic Regression, Decision Tree, and Random Forest baselines on the Breast Cancer Wisconsin dataset using Accuracy, Precision, Recall, and F1 Score.
+</td>
+<td width="50%" valign="top">
+
+**Neural Network from Scratch**
+Binary classifier built with raw NumPy: weight init, ReLU/Sigmoid, forward propagation, backprop, and gradient descent, benchmarked against Logistic Regression, Decision Tree, and Random Forest on the Breast Cancer Wisconsin dataset.
 `Python` `NumPy` `Machine Learning`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **Real-Time Green Screen System**
-A live background-replacement pipeline built with OpenCV and NumPy. Processes webcam frames in real time using colour masking to segment foreground from background, with no GPU or ML model required.
+Live background-replacement pipeline using OpenCV colour masking to segment foreground from background in real time, no GPU or ML model required.
 `Python` `OpenCV` `NumPy` `Computer Vision`
 
-## Tech Stack
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## GitHub Stats
+---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=dark&hide_border=true" />
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitZeroSix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitZeroSix&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdvaitZeroSix&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdvaitZeroSix&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
