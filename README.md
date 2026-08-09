@@ -28,17 +28,9 @@
 
 ### A little about me
 
-```txt
-if bug:
-    blame_semicolon()
-elif deadline_close:
-    ship_it_anyway()
-else:
-    build_something_new()
-
-# currently: breaking things on purpose to learn how they work
-# hobbies: DSA grinding, full-stack builds, occasionally touching grass
-```
+- CSE (FinTech) student, still figuring out which half of that title matters more
+- Spend most of my time between DSA grinding and full-stack builds
+- Learn best by building something, watching it break, and fixing it
 
 ---
 
