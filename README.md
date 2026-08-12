@@ -10,19 +10,6 @@ My main interests are full-stack development, machine learning, DSA and cybersec
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdvaitZeroSix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&rank_icon=github&custom_title=GitHub%20Statistics" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=AdvaitZeroSix&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitZeroSix&layout=compact&langs_count=8&hide_border=true&theme=dark&custom_title=Languages" height="165"/>
-</p>
-
----
-
 ## Selected Work
 
 ### [StudentHub](https://studenthub-react.vercel.app/)
