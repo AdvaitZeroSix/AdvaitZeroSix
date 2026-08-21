@@ -104,8 +104,8 @@ No pretrained model. No GPU.
 ## GitHub & LeetCode
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AdvaitZeroSix&show_icons=true&include_all_commits=true&hide_border=true" height="150">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdvaitZeroSix&layout=compact&hide_border=true" height="150">
+  <img src="https://github-readme-stats.shion.dev/api?username=AdvaitZeroSix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdvaitZeroSix&layout=compact&hide_border=true&theme=tokyonight" height="150">
 </p>
 
 <p align="center">
