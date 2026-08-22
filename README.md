@@ -34,10 +34,8 @@ I learn mostly by building projects, breaking things and figuring out why they b
 | :------------------ | :-------------------------------------------------------------------------------------------------------- |
 | **Languages**       | <img src="https://skillicons.dev/icons?i=java,python,c,js" height="28"> `SQL`                             |
 | **Frontend**        | <img src="https://skillicons.dev/icons?i=react,vite" height="28"> `HTML` `CSS`                            |
-| **Backend**         | <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="28"> `REST APIs`                   |
 | **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb" height="28"> `MongoDB Atlas`                            |
 | **AI / ML**         | <img src="https://skillicons.dev/icons?i=python" height="28"> `NumPy` `Pandas` `Scikit-learn` `Streamlit` |
-| **Computer Vision** | <img src="https://skillicons.dev/icons?i=opencv" height="28"> `MediaPipe` `NumPy`                         |
 | **APIs**            | `Gemini API` `PokeAPI` `OpenWeatherMap`                                                                   |
 | **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="28"> `WSL`              |
 | **Deployment**      | <img src="https://skillicons.dev/icons?i=vercel,cloudflare" height="28"> `Render` `Streamlit Cloud`       |
