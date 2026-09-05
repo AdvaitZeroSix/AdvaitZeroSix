@@ -20,7 +20,7 @@ B.Tech CSE (FinTech) @ Manipal Institute of Technology | Class of 2029
 
 ## About Me
 
-CSE (FinTech) student interested in building software and understanding how things work underneath the abstraction.
+CSE (FinTech) student interested in building software and understanding how things work.
 
 Currently exploring full-stack development, DSA, machine learning, cybersecurity and FinTech.
 
