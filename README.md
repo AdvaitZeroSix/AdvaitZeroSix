@@ -1,86 +1,95 @@
-<h1 align="center">Advait Saxena</h1>
-
 <p align="center">
-  B.Tech CSE (FinTech) at Manipal Institute of Technology · Class of 2029
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b26,55:3d59a1,100:bb9af7&text=Advait%20Saxena&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=things%20I%20build%20%26%20break&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Advait Saxena - things I build and break">
 </p>
 
 <p align="center">
-  <a href="https://advaitsaxena0.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=cloudflarepages&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/advaitsaxena2306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/AdvaitSaxena/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=34&lines=full-stack+web+apps+in+React+%2B+Node;neural+nets+from+scratch%2C+no+frameworks;a+puzzle+game+with+130%2B+players+at+once;real-time+computer+vision+without+a+GPU;CTFs+and+picoCTF+write-ups" alt="typing animation of what I work on">
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="780" alt="animated terminal">
+</p>
+
+<p align="center">
+  <a href="https://advaitsaxena0.pages.dev/"><img src="https://img.shields.io/badge/portfolio-1a1b26?style=flat-square&logo=cloudflarepages&logoColor=7aa2f7"></a>
+  <a href="https://www.linkedin.com/in/advaitsaxena2306/"><img src="https://img.shields.io/badge/linkedin-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7"></a>
+  <a href="https://leetcode.com/u/AdvaitSaxena/"><img src="https://img.shields.io/badge/leetcode-1a1b26?style=flat-square&logo=leetcode&logoColor=ffa116"></a>
 </p>
 
 ---
 
-## About
+## Things I've built
 
-Second-year CS student with a FinTech lean. I like building things end to end, from the interface to the API behind it, and I'm happiest when I'm working out why something broke.
+### Web and games
 
-This year that meant helping build and run an online puzzle game with 250+ registrations for one of India's bigger college tech fests, and building a bank-statement analyser at a hackathon. Outside of that: web, a bit of machine learning, CTFs, and DSA practice.
+**[Hopeless Opus](https://hopelessopus.istemanipal.com)** · React, MongoDB
+An online puzzle-adventure game for Techtatva 2026 (ISTE Manipal), built with a 17-person team. 30 minigames, a live leaderboard, 250+ registrations and 130+ people playing at once. I wrote 5 of the minigames, including a draggable three-ring cipher wheel, and the site's animated ancient-temple UI. Source is in the organisers' private repo.
 
----
+**[StudentHub](https://github.com/AdvaitZeroSix/studenthub_react)** · [live](https://studenthub-react.vercel.app/) · React, Node, Express, MongoDB
+Tasks, notes, an income/expense tracker and a Pomodoro timer in one dashboard. JWT auth, bcrypt, an 8-endpoint API, and everything scoped per user.
 
-## Recent
+**[PersonalWebpage](https://github.com/AdvaitZeroSix/PersonalWebpage)** · JavaScript
+A personal site, built mostly for fun.
 
-### Hopeless Opus
-**[Live](https://hopelessopus.istemanipal.com)** · Techtatva 2026, ISTE Manipal
+### ML and data
 
-An online puzzle-adventure game for the Acumen category at Techtatva, built by a 17-person team (9 web, 4 design, 4 story).
+**[Neural Network from Scratch](https://github.com/AdvaitZeroSix/MachineLearning/tree/main/NeuralNetwork)** · Python, NumPy
+A 30-16-1 network with backprop and gradient descent written by hand, no TensorFlow or PyTorch. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree and random forest baselines.
 
-- 250+ registrations from across the country, 130+ concurrent players, 30 puzzle minigames, real-time leaderboard
-- I built 5 of the minigames, including the draggable three-ring cipher wheel, and designed the site UI around one animated ancient-temple theme
-- The code lives in the organisers' private repo
+**[FIFA Team Performance Predictor](https://github.com/AdvaitZeroSix/FIFA_TeamPerformance)** · [live](https://advaitsaxena.streamlit.app/) · Python, Scikit-learn, Streamlit
+Random Forest over 107k+ FIFA 23 team records. 99.2% accuracy on a held-out split, with a side-by-side team comparison mode.
 
-`React` `MongoDB`
+**[Cloudizard](https://github.com/AdvaitZeroSix/Cloudizard)** · [live](https://cloudizard.onrender.com) · Python, Flask, Gemini API
+Type a request in plain English and one LLM call works out both the intent and the entity, then routes it to Gemini, PokeAPI or OpenWeatherMap.
 
-### AI Finance Insights
-DevSprint, Aurora 2026 (ISTE Manipal)
+**AI Finance Insights** · Python, FastAPI, Pandas
+Built at DevSprint (Aurora 2026). Drop in a bank statement and it scores your financial health out of 100, flags overspending and forgotten subscriptions, and ranks what to fix first.
 
-Upload a bank statement and get a 0-100 financial health score, with overspending and forgotten subscriptions flagged and a ranked list of what to fix first.
+**[MachineLearning](https://github.com/AdvaitZeroSix/MachineLearning)** · Jupyter
+Notebooks and experiments.
 
-`Python` `FastAPI` `Pandas`
+### Computer vision
 
----
+**[Real-Time Green Screen](https://github.com/AdvaitZeroSix/Invisibile_OpenCV)** · Python, OpenCV, NumPy
+Live webcam background replacement from colour masking alone. No GPU, no pretrained model.
 
-## Projects
+**Real-time ball tracking** · OpenCV
+Won Best Project at the ISTE MIT OpenCV Workshop.
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **[StudentHub](https://github.com/AdvaitZeroSix/studenthub_react)** · [live](https://studenthub-react.vercel.app/) | Full-stack student dashboard: tasks, notes, income/expense tracker, Pomodoro timer. JWT auth, bcrypt, 8-endpoint REST API, every record scoped to the logged-in user. | `React` `Node` `Express` `MongoDB` |
-| **[Cloudizard](https://github.com/AdvaitZeroSix/Cloudizard)** · [live](https://cloudizard.onrender.com) | Natural-language router across Gemini, PokeAPI and OpenWeatherMap. One LLM call per query handles both intent and entity extraction. | `Python` `Flask` `Gemini API` |
-| **[FIFA Team Performance Predictor](https://github.com/AdvaitZeroSix/FIFA_TeamPerformance)** · [live](https://advaitsaxena.streamlit.app/) | Random Forest on 107k+ FIFA 23 team records, 99.2% accuracy on a held-out 20% split. Four-tab Streamlit app with team comparison. | `Python` `Scikit-learn` `Streamlit` |
-| **[Neural Network from Scratch](https://github.com/AdvaitZeroSix/MachineLearning/tree/main/NeuralNetwork)** | 30-16-1 network in NumPy only. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree (94.7%) and random forest (96.5%) baselines. | `Python` `NumPy` |
-| **[Real-Time Green Screen](https://github.com/AdvaitZeroSix/Invisibile_OpenCV)** | Live webcam background replacement from colour masking. No GPU, no pretrained model. | `Python` `OpenCV` |
+### Security
+
+**[picoCTF write-ups](https://github.com/AdvaitZeroSix/PicoCtf_Writeups)**
+Write-ups for 10 picoCTF challenges. Top 50 in the Cryptonite MIT CTF.
+
+<details>
+<summary><b>Practice and coursework</b></summary>
+<br>
+
+- [neetcode-submissions](https://github.com/AdvaitZeroSix/neetcode-submissions) (Java) and [LeetcodeProblems](https://github.com/AdvaitZeroSix/LeetcodeProblems) (C): DSA practice
+- [ADS-Lab3rdSem](https://github.com/AdvaitZeroSix/ADS-Lab3rdSem) (Java), [DBMS_Lab3rdSem](https://github.com/AdvaitZeroSix/DBMS_Lab3rdSem), [PP_Lab3rdSem](https://github.com/AdvaitZeroSix/PP_Lab3rdSem) (C)
+
+</details>
 
 ---
 
 ## Stack
 
-| | |
-| :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,go,js,c" height="28"> `SQL` `PL/SQL` |
-| **Web** | <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,fastapi,mongodb" height="28"> |
-| **Data / ML** | <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv" height="28"> `Streamlit` |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,linux" height="28"> `Oracle SQL*Plus` `Render` |
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,c&theme=dark" height="44"><br>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,fastapi,mongodb&theme=dark" height="44"><br>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv&theme=dark" height="44"><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,linux&theme=dark" height="44">
+</p>
 
 ---
 
-## Beyond the code
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdvaitZeroSix/AdvaitZeroSix/output/snake-dark.svg">
+    <img alt="contribution graph eaten by a snake" src="https://raw.githubusercontent.com/AdvaitZeroSix/AdvaitZeroSix/output/snake.svg" width="100%">
+  </picture>
+</p>
 
-- **CTF**: Top 50 at Cryptonite MIT CTF, plus [write-ups for 10 picoCTF challenges](https://github.com/AdvaitZeroSix/PicoCtf_Writeups).
-- **ISTE Manipal**: Managing Committee. Part of the team that ran Acumen at Techtatva 2026, and took part in the DevSprint hackathon at Aurora TechWeek.
-- **IE Mechatronics Club**: Managing Committee, AI & Development subsystem.
-- **Rotaract Club Manipal**: blood donation camps, clothing drives, beach clean-ups, old age home visits.
-- **Awards**: Best Project at the ISTE MIT OpenCV Workshop (real-time ball tracking). Certificate of Recognition from MIT Manipal for work on the Acumen organising committee.
-
----
-
-## Now
-
-Java and OOP, DSA, ML fundamentals, and more security work.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AdvaitSaxena?theme=dark&font=Fira%20Code&ext=activity" width="420" alt="LeetCode stats">
+</p>
