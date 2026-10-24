@@ -68,10 +68,9 @@ Write-ups for 10 picoCTF challenges.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,go,js,c&theme=dark" height="44"><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,fastapi,mongodb&theme=dark" height="44"><br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv&theme=dark" height="44"><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,linux&theme=dark" height="44">
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,c,html,css&theme=dark" height="44"> <code>SQL</code> <code>PL/SQL</code><br>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,opencv,numpy,pandas,sklearn&theme=dark" height="44"> <code>Streamlit</code> <code>Matplotlib</code> <code>Seaborn</code><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,figma,vercel&theme=dark" height="44"> <code>Oracle SQL*Plus</code> <code>Render</code> <code>Excel</code> <code>Canva</code>
 </p>
 
 ---
