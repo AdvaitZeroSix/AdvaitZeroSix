@@ -53,13 +53,10 @@ Notebooks and experiments.
 **[Real-Time Green Screen](https://github.com/AdvaitZeroSix/Invisibile_OpenCV)** · Python, OpenCV, NumPy
 Live webcam background replacement from colour masking alone. No GPU, no pretrained model.
 
-**Real-time ball tracking** · OpenCV
-Won Best Project at the ISTE MIT OpenCV Workshop.
-
 ### Security
 
 **[picoCTF write-ups](https://github.com/AdvaitZeroSix/PicoCtf_Writeups)**
-Write-ups for 10 picoCTF challenges. Top 50 in the Cryptonite MIT CTF.
+Write-ups for 10 picoCTF challenges.
 
 <details>
 <summary><b>Practice and coursework</b></summary>
