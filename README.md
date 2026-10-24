@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a1b26,55:3d59a1,100:bb9af7&text=Advait%20Saxena&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=things%20I%20build%20%26%20break&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Advait Saxena - things I build and break">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=34&lines=full-stack+web+apps+in+React+%2B+Node;neural+nets+from+scratch%2C+no+frameworks;a+puzzle+game+with+130%2B+players+at+once;real-time+computer+vision+without+a+GPU;CTFs+and+picoCTF+write-ups" alt="typing animation of what I work on">
+  <img src="assets/banner.svg" width="100%" alt="Advait Saxena - things I build and break">
 </p>
 
 <p align="center">
