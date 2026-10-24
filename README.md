@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Advait Saxena</h1>
-
-<h3 align="center">
-B.Tech CSE (FinTech) @ Manipal Institute of Technology | Class of 2029
-</h3>
+<h1 align="center">Advait Saxena</h1>
 
 <p align="center">
-  <a href="https://github.com/AdvaitZeroSix">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  B.Tech CSE (FinTech) at Manipal Institute of Technology · Class of 2029
+</p>
+
+<p align="center">
+  <a href="https://advaitsaxena0.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=cloudflarepages&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/advaitsaxena2306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -18,99 +18,69 @@ B.Tech CSE (FinTech) @ Manipal Institute of Technology | Class of 2029
 
 ---
 
-## About Me
+## About
 
-CSE (FinTech) student interested in building software and understanding how things work.
+Second-year CS student with a FinTech lean. I like building things end to end, from the interface to the API behind it, and I'm happiest when I'm working out why something broke.
 
-Currently exploring full-stack development, DSA, machine learning, cybersecurity and FinTech.
-
-I learn mostly by building projects, breaking things and figuring out why they broke.
+This year that meant helping build and run an online puzzle game with 250+ registrations for one of India's bigger college tech fests, and building a bank-statement analyser at a hackathon. Outside of that: web, a bit of machine learning, CTFs, and DSA practice.
 
 ---
 
-## Tech Stack
+## Recent
 
-| Area                | Technologies                                                                                              |
-| :------------------ | :-------------------------------------------------------------------------------------------------------- |
-| **Languages**       | <img src="https://skillicons.dev/icons?i=java,python,c,js" height="28"> `SQL`                             |
-| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,vite" height="28"> `HTML` `CSS`                            |
-| **Databases**       | <img src="https://skillicons.dev/icons?i=mongodb" height="28"> `MongoDB Atlas`                            |
-| **AI / ML**         | <img src="https://skillicons.dev/icons?i=python" height="28"> `NumPy` `Pandas` `Scikit-learn` `Streamlit` |
-| **APIs**            | `Gemini API` `PokeAPI` `OpenWeatherMap`                                                                   |
-| **Tools**           | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="28"> `WSL`              |
-| **Deployment**      | <img src="https://skillicons.dev/icons?i=vercel,cloudflare" height="28"> `Render` `Streamlit Cloud`       |
+### Hopeless Opus
+**[Live](https://hopelessopus.istemanipal.com)** · Techtatva 2026, ISTE Manipal
+
+An online puzzle-adventure game for the Acumen category at Techtatva, built by a 17-person team (9 web, 4 design, 4 story).
+
+- 250+ registrations from across the country, 130+ concurrent players, 30 puzzle minigames, real-time leaderboard
+- I built 5 of the minigames, including the draggable three-ring cipher wheel, and designed the site UI around one animated ancient-temple theme
+- The code lives in the organisers' private repo
+
+`React` `MongoDB`
+
+### AI Finance Insights
+DevSprint, Aurora 2026 (ISTE Manipal)
+
+Upload a bank statement and get a 0-100 financial health score, with overspending and forgotten subscriptions flagged and a ranked list of what to fix first.
+
+`Python` `FastAPI` `Pandas`
 
 ---
 
 ## Projects
 
-### StudentHub
-
-[Live Demo](https://studenthub-react.vercel.app/)
-
-A full-stack student dashboard with tasks, expenses, notes and productivity tools.
-
-`React` `Node.js` `Express` `MongoDB`
-
-### Cloudizard
-
-[Live Demo](https://cloudizard.onrender.com/)
-
-A natural-language API router that uses Gemini to understand requests and route them to the appropriate API.
-
-`Python` `Flask` `Gemini API`
-
-### FIFA Team Performance Predictor
-
-[Live Demo](https://advaitsaxena.streamlit.app/)
-
-A Random Forest model trained on FIFA 23 data with an interactive team comparison interface.
-
-~99.2% accuracy on the dataset.
-
-`Python` `Pandas` `Scikit-learn` `Streamlit`
-
-### Neural Network From Scratch
-
-A neural network implemented using NumPy to understand forward propagation, backpropagation and gradient descent.
-
-No TensorFlow. No PyTorch.
-
-`Python` `NumPy` `Machine Learning`
-
-### Real-Time Green Screen
-
-Real-time colour segmentation and background replacement using OpenCV and NumPy.
-
-No pretrained model. No GPU.
-
-`Python` `OpenCV` `NumPy`
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **[StudentHub](https://github.com/AdvaitZeroSix/studenthub_react)** · [live](https://studenthub-react.vercel.app/) | Full-stack student dashboard: tasks, notes, income/expense tracker, Pomodoro timer. JWT auth, bcrypt, 8-endpoint REST API, every record scoped to the logged-in user. | `React` `Node` `Express` `MongoDB` |
+| **[Cloudizard](https://github.com/AdvaitZeroSix/Cloudizard)** · [live](https://cloudizard.onrender.com) | Natural-language router across Gemini, PokeAPI and OpenWeatherMap. One LLM call per query handles both intent and entity extraction. | `Python` `Flask` `Gemini API` |
+| **[FIFA Team Performance Predictor](https://github.com/AdvaitZeroSix/FIFA_TeamPerformance)** · [live](https://advaitsaxena.streamlit.app/) | Random Forest on 107k+ FIFA 23 team records, 99.2% accuracy on a held-out 20% split. Four-tab Streamlit app with team comparison. | `Python` `Scikit-learn` `Streamlit` |
+| **[Neural Network from Scratch](https://github.com/AdvaitZeroSix/MachineLearning/tree/main/NeuralNetwork)** | 30-16-1 network in NumPy only. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree (94.7%) and random forest (96.5%) baselines. | `Python` `NumPy` |
+| **[Real-Time Green Screen](https://github.com/AdvaitZeroSix/Invisibile_OpenCV)** | Live webcam background replacement from colour masking. No GPU, no pretrained model. | `Python` `OpenCV` |
 
 ---
 
-## What I'm Learning
+## Stack
 
-* Data Structures & Algorithms
-* Java and Object-Oriented Programming
-* Machine Learning fundamentals
-* Full-stack development
-* Cybersecurity and CTFs
-* FinTech and financial systems
-
----
-
-## GitHub & LeetCode
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdvaitZeroSix&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="150">
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AdvaitSaxena?theme=dark&font=Fira%20Code&ext=activity" width="400">
-</p>
+| | |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,go,js,c" height="28"> `SQL` `PL/SQL` |
+| **Web** | <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,fastapi,mongodb" height="28"> |
+| **Data / ML** | <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,opencv" height="28"> `Streamlit` |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,linux" height="28"> `Oracle SQL*Plus` `Render` |
 
 ---
 
-<p align="center">
-  <sub>Build. Break. Understand. Repeat.</sub>
-</p>
+## Beyond the code
+
+- **CTF**: Top 50 at Cryptonite MIT CTF, plus [write-ups for 10 picoCTF challenges](https://github.com/AdvaitZeroSix/PicoCtf_Writeups).
+- **ISTE Manipal**: Managing Committee. Part of the team that ran Acumen at Techtatva 2026, and took part in the DevSprint hackathon at Aurora TechWeek.
+- **IE Mechatronics Club**: Managing Committee, AI & Development subsystem.
+- **Rotaract Club Manipal**: blood donation camps, clothing drives, beach clean-ups, old age home visits.
+- **Awards**: Best Project at the ISTE MIT OpenCV Workshop (real-time ball tracking). Certificate of Recognition from MIT Manipal for work on the Acumen organising committee.
+
+---
+
+## Now
+
+Java and OOP, DSA, ML fundamentals, and more security work.
