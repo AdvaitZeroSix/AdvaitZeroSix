@@ -14,6 +14,10 @@
 
 ---
 
+## About
+
+Second-year B.Tech CSE (FinTech) student at MIT Manipal. I learn by building things and fixing them when they break: full-stack web apps, small AI projects and security puzzles. Currently exploring machine learning, LLM apps and cybersecurity.
+
 ## Things I've built
 
 ### Web and games
@@ -30,7 +34,7 @@ A personal site, built mostly for fun.
 ### ML and data
 
 **[GitToKnow](https://github.com/white-shn/GitToKnow)** · React, FastAPI, Gemma 4, RAG
-Paste a public GitHub repo and get an interactive import graph, an AI overview and a chat that cites the exact files and lines. Built with a team of 4 at Hacktoberfest x MOSS Hack Day Udupi. I built the repo-analysis and dependency-graph backends, the Gemma 4 overview and RAG chat, and the sunburst, graph and chat UI. It also ships as an agent skill for Claude Code and other agents.
+Paste a public GitHub repo and get an interactive import graph, an AI overview and a chat that cites the exact files and lines. Top 6 at Hacktoberfest x MOSS Hack Day Udupi, built with a team of 4. I built the repo-analysis and dependency-graph backends, the Gemma 4 overview and RAG chat, and the sunburst, graph and chat UI. It also ships as an agent skill for Claude Code and other agents.
 
 **[Neural Network from Scratch](https://github.com/AdvaitZeroSix/MachineLearning/tree/main/NeuralNetwork)** · Python, NumPy
 A 30-16-1 network with backprop and gradient descent written by hand, no TensorFlow or PyTorch. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree and random forest baselines.
