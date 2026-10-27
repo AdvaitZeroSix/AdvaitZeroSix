@@ -29,6 +29,9 @@ A personal site, built mostly for fun.
 
 ### ML and data
 
+**[GitToKnow](https://github.com/white-shn/GitToKnow)** · React, FastAPI, Gemma 4, RAG
+Paste a public GitHub repo and get an interactive import graph, an AI overview and a chat that cites the exact files and lines. Built with a team of 4 at Hacktoberfest x MOSS Hack Day Udupi. I built the repo-analysis and dependency-graph backends, the Gemma 4 overview and RAG chat, and the sunburst, graph and chat UI. It also ships as an agent skill for Claude Code and other agents.
+
 **[Neural Network from Scratch](https://github.com/AdvaitZeroSix/MachineLearning/tree/main/NeuralNetwork)** · Python, NumPy
 A 30-16-1 network with backprop and gradient descent written by hand, no TensorFlow or PyTorch. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree and random forest baselines.
 
@@ -69,7 +72,7 @@ Write-ups for 10 picoCTF challenges.
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,go,js,c,html,css&theme=dark" height="44"> <code>SQL</code> <code>PL/SQL</code><br>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,opencv,numpy,pandas,sklearn&theme=dark" height="44"> <code>Streamlit</code> <code>Matplotlib</code> <code>Seaborn</code><br>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,opencv,numpy,pandas,sklearn&theme=dark" height="44"> <code>Streamlit</code> <code>Gemini API</code> <code>Matplotlib</code> <code>Seaborn</code><br>
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,figma,vercel&theme=dark" height="44"> <code>Oracle SQL*Plus</code> <code>Render</code> <code>Excel</code> <code>Canva</code>
 </p>
 
