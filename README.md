@@ -53,7 +53,7 @@ Notebooks and experiments.
 
 ### Computer vision
 
-**[Real-Time Green Screen](https://github.com/AdvaitZeroSix/Invisibile_OpenCV)** · Python, OpenCV, NumPy
+**[Real-Time Green Screen](https://github.com/AdvaitZeroSix/opencv-green-screen)** · Python, OpenCV, NumPy
 Live webcam background replacement from colour masking alone. No GPU, no pretrained model.
 
 ### Security
