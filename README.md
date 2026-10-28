@@ -26,7 +26,7 @@ Second-year B.Tech CSE (FinTech) student at MIT Manipal. I learn by building thi
 An online puzzle-adventure game for Techtatva 2026 (ISTE Manipal), built with a 17-person team. 30 minigames, a live leaderboard, 250+ registrations and 130+ people playing at once. I wrote 5 of the minigames, including a draggable three-ring cipher wheel, and the site's animated ancient-temple UI. Source is in the organisers' private repo.
 
 **[StudentHub](https://github.com/AdvaitZeroSix/studenthub_react)** · [live](https://studenthub-react.vercel.app/) · React, Node, Express, MongoDB
-Tasks, notes, an income/expense tracker and a Pomodoro timer in one dashboard. JWT auth, bcrypt, an 8-endpoint API, and everything scoped per user.
+Tasks, notes, an income/expense tracker and a Pomodoro timer in one dashboard. JWT auth, bcrypt and an 8-endpoint API. Notes and expenses are stored per user in MongoDB; tasks live in the browser.
 
 **[PersonalWebpage](https://github.com/AdvaitZeroSix/PersonalWebpage)** · JavaScript
 A personal site, built mostly for fun.
@@ -40,7 +40,7 @@ Paste a public GitHub repo and get an interactive import graph, an AI overview a
 A 30-16-1 network with backprop and gradient descent written by hand, no TensorFlow or PyTorch. 97.4% test accuracy on Breast Cancer Wisconsin, ahead of decision tree and random forest baselines.
 
 **[FIFA Team Performance Predictor](https://github.com/AdvaitZeroSix/FIFA_TeamPerformance)** · [live](https://advaitsaxena.streamlit.app/) · Python, Scikit-learn, Streamlit
-Random Forest over 107k+ FIFA 23 team records. 99.2% accuracy on a held-out split, with a side-by-side team comparison mode.
+Random Forest that sorts FIFA 23 teams into Weak, Average, Good and Elite tiers, trained on 107k+ team records, plus a side-by-side team comparison mode. The tier comes from the overall rating, so the 99.2% accuracy shows it recovers those bands, not that it forecasts results. The README explains this.
 
 **[Cloudizard](https://github.com/AdvaitZeroSix/Cloudizard)** · [live](https://cloudizard.onrender.com) · Python, Flask, Gemini API
 Type a request in plain English and one LLM call works out both the intent and the entity, then routes it to Gemini, PokeAPI or OpenWeatherMap.
