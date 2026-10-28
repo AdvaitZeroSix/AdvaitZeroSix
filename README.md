@@ -65,8 +65,8 @@ Write-ups for 10 picoCTF challenges.
 <summary><b>Practice and coursework</b></summary>
 <br>
 
-- [neetcode-submissions](https://github.com/AdvaitZeroSix/neetcode-submissions) (Java) and [LeetcodeProblems](https://github.com/AdvaitZeroSix/LeetcodeProblems) (C): DSA practice
-- [ADS-Lab3rdSem](https://github.com/AdvaitZeroSix/ADS-Lab3rdSem) (Java), [DBMS_Lab3rdSem](https://github.com/AdvaitZeroSix/DBMS_Lab3rdSem), [PP_Lab3rdSem](https://github.com/AdvaitZeroSix/PP_Lab3rdSem) (C)
+- [neetcode-submissions](https://github.com/AdvaitZeroSix/neetcode-submissions) (Java) and [LeetcodeProblems](https://github.com/AdvaitZeroSix/LeetcodeProblems) (C, Java, Python): DSA practice
+- [ADS-Lab3rdSem](https://github.com/AdvaitZeroSix/ADS-Lab3rdSem) (Java), [DBMS_Lab3rdSem](https://github.com/AdvaitZeroSix/DBMS_Lab3rdSem), [PP_Lab3rdSem](https://github.com/AdvaitZeroSix/PP_Lab3rdSem) (C, Java)
 
 </details>
 
